@@ -26,4 +26,4 @@ Run webpack dev server (for assets):
 npm start
 ```
 
-Visit [http://localhost:3000/](http://localhost:3000/).
+Visit [http://localhost:3000/](http://localhost:3000/)
